@@ -1,6 +1,6 @@
 <div align=center>
 
-   💻 **Veja o projeto em produção [aqui](https://ecommerceaspnet.azurewebsites.net/)**
+   💻 **Veja o projeto em produção [aqui](https://1drv.ms/u/s!ApwTC-vkpnN9f_MPh18ir_XXMDY?e=6lJu2V)**
    
 </div>
 
@@ -40,7 +40,7 @@ Siga os passos abaixo para ter acesso ao seu ambiente de desenvolvimento:
 3. Configure a string de conexão no arquivo **appsettings.json** apontando para o seu banco de dados SQL Server **caso voce tenha colocado outro nome**;
 
 4. Para criar o banco de dados SQL Server e suas respectivas tabelas, abra o **Package Manager Console** em seu Visual Studio e digite os comandos: 
-    - Criação das tabelas do Identity: 
+    - Criação das tabelas do Identity: Abra o Console do Gerenciador de Pacotes > **Acima em Projeto padrão**: Selecione **Infrastructure**. Execute os comandos abaixo:
         ```csharp
             Add-Migration InitialCreate -Context ContextBase
         ```
