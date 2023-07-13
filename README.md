@@ -30,7 +30,7 @@ Siga os passos abaixo para ter acesso ao seu ambiente de desenvolvimento:
 
 1. Clone o repositório:
 ```csharp
-   git clone https://github.com/michaelsribeiro/ASP.NET_Core_Ecommerce.git
+   git clone https://github.com/GabrielFSouza/ProjectSiteWare.git
 ```
 
 2. Criar conexao com o banco de dados pelo Visual Studio(**OPCIONAL**): 
