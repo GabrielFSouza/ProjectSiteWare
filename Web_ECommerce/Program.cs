@@ -26,6 +26,7 @@ HelpStartup.ConfigureSingleton(builder.Services);
 //        .AddCertificate();
 
 //***************************************************** NOVO
+// ALTERACAO DE CODIGO 17/07/2023
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
